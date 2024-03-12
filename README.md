@@ -13,7 +13,7 @@ Ensure that you have the necessary data available and modify paths in the code a
 Execute the R scripts in your preferred R environment or IDE.
 
 ## Acknowledgments
-This analysis is used in a paper currently under review.
+This analysis is used in Mattsson-Carlgren et al, JAMA Neurology 2023 (https://jamanetwork.com/journals/jamaneurology/fullarticle/2812432)
 
 ## Contact info
 niklas.mattsson-carlgren@med.lu.se 
